@@ -62,7 +62,7 @@
         <OutArgument x:TypeArguments="x:String">[stringtoBeReversed]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">SharathRaju</InArgument>
+        <InArgument x:TypeArguments="x:String">Sharath</InArgument>
       </Assign.Value>
     </Assign>
     <Assign DisplayName="Assign reversedString" sap:VirtualizedContainerService.HintSize="334,60" sap2010:WorkflowViewState.IdRef="Assign_2">
